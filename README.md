@@ -12,11 +12,34 @@ Who
 - Jest
 - Yarn
 - Tailwind CSS
-- Git
+- Git:
+
+  - Use the imperative mood in the subject line [🔗](https://youtu.be/JiZACkPNm8U)
+
+    - 🚫 **Do Not** use past or future tense in the message
+    - Example:
+
+    ```bash
+    Summary: 🙈 Added text to readme
+
+    Body: We are just demoing what a good commit message looks like
+    ```
+
+  - Write a better commit message:
+
+    - 🟢 Use the body to explain what and why vs how
+    - Example:
+
+    ```bash
+    Summary: Add text to readme
+
+    Body: We are just demoing what a good commit message looks like
+    ```
+
 - AWS
 
 When
 Why
 How
 
-## File Structure
+## 📂 File Structure
