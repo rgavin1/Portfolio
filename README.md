@@ -43,3 +43,32 @@ Why
 How
 
 ## 📂 File Structure
+
+## 🖌️ Design
+
+| Theme (Mode)     | 🌕 Dark   | 🌞 Light  | Saturation |
+| :--------------- | :-------- | :-------- | :--------- |
+| Background Color | `#121212` | `#ffffff` |
+| Primary Color    | `NA`      | `NA`      |
+| Secondary Color  | `NA`      | `NA`      |
+| Error Color      | `NA`      | `NA`      |
+| Disabled Color   | `NA`      | `NA`      |
+| Hover Color      | `NA`      | `NA`      |
+| Text Color       | `#ffffff` | `#000000` |
+| Drop Shadow      | `NA`      | `NA`      |
+| Inner Shadow     | `NA`      | `NA`      |
+| Icon             | `NA`      | `NA`      |
+
+- Font Family
+- Font Style
+- Font Size
+
+- Pending/Sending/Loading
+
+- Button
+
+- Errors - This will be used for a form
+
+## What did I learn from this project?
+
+-
