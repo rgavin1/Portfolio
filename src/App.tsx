@@ -1,13 +1,13 @@
 import React from "react";
-import "./App.css";
 
 import { Navbar, Sidebar } from "./components";
 import { Home } from "./pages";
 
 const App: React.FC = () => {
   return (
-    <div>
+    <div className="flex">
       <Navbar />
+      {/* React Routing Here */}
       <Home />
       <Sidebar />
     </div>
