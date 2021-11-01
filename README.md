@@ -69,6 +69,10 @@ How
 
 - Errors - This will be used for a form
 
+## How to install Tailwind CSS
+
+Setup 👉 https://tailwindcss.com/docs/guides/create-react-app
+
 ## What did I learn from this project?
 
 -
