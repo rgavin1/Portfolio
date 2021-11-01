@@ -8,6 +8,7 @@ Who
 
 - React
 - React Hooks
+- React Icons
 - Typescript
 - Jest
 - Yarn
