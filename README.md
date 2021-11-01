@@ -73,6 +73,58 @@ How
 
 Setup 👉 https://tailwindcss.com/docs/guides/create-react-app
 
+Responsiveness:
+
+```bash
+# tailwind.config.js
+
+theme: {
+    screens: {
+      sm: '640px',
+      md: '768px',
+      lg: '1024px',
+      xlg: '1280px',
+    },
+  },
+
+
+```
+
+```html
+<div className="md:col-span-2">...</div>
+```
+
+Colors:
+
+```bash
+
+# tailwind.config.js
+
+theme: {
+    colors: {
+      primary: 'var(--color-primary)',
+      secondary: 'var(--color-secondary)',
+    },
+  },
+
+```
+
+```css
+/* src/index.css */
+
+:root {
+  --color-primary: #121212;
+  --color-secondary: #ecc94b;
+  --text_primary: #ffffff;
+}
+
+html,
+body {
+  background-color: var(--color-primary);
+  color: var(--text_primary);
+}
+```
+
 ## What did I learn from this project?
 
 -
